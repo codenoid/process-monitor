@@ -1,0 +1,10 @@
+instance_name: Sensitive Process
+
+notifier:
+  telegram:
+    token: 1378676316:AAFi42tDtJpaCVfLanhOKSG-krKM8mDvY24
+    rooms: 
+      - -445872290
+
+notif_config:
+  repeat_every: "5m" # int in second, so 500 is 5 minute
