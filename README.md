@@ -2,6 +2,8 @@
 
 Process monitor/watcher by process name, and notify user via telegram bot
 
+![screenshot](screenshot.png)
+
 ## Installing
 
 if you already has Go: 
